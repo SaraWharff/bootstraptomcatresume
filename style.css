@@ -27,12 +27,6 @@ body { background-color: slategrey;
   color: darkgrey;
         }
 
-/*
-#skills{
-	padding-top: 18px;
-       }
-*/
-
 ul {
   list-style-image: url("paw.png");
   list-style-type: circle;
@@ -70,33 +64,12 @@ a:active {color: white;}
   color: #F5FA8E;
                    }
 
-/*
-.leftcols {
-  margin-top: -450px;
-  padding-left: 30px;
-          }
-*/
-
-/*
-.mt-n1 {
-  margin-top: -28rem !important;
-}
-*/
-
 
 @media (min-width: 768px) {
   .mt-n1 {
   margin-top: -23rem !important;
 }
 }
-
-/*
-@media (max-width: 767.98px) {
-	.mt-n1 {
-  margin-top: -80rem !important;
-	}}
-*/
-
 
 .accordion-button {
   background-color: #E5BDBD;
